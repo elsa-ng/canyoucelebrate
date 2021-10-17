@@ -1,0 +1,15 @@
+{
+  "name": "canyoucelebrate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elsa Ng",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "fullcalendar": "^3.6.1"
+  }
+}
